@@ -1,4 +1,4 @@
 # COMP472_Project
-Contributors:\n
+Contributors:
 Zexu Hao(40233332) 
 Mingming Zhang (40258080) 
